@@ -3,5 +3,4 @@ This repository also contains my draft visualizations for Chapter 4.
 I was here.
 This line was created locally.
 
-<<<<<<< HEAD
 This is my local conflict.
